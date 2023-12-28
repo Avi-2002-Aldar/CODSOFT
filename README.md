@@ -1,1 +1,5 @@
 # CODSOFT
+
+landing page live demo -https://avi-2002-aldar.github.io/landingpage/
+Calculator live demo -https://avi-2002-aldar.github.io/calculator/
+Portfolio live demo -https://avi-2002-aldar.github.io/portfolio/
